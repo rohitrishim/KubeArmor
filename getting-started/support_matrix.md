@@ -82,6 +82,11 @@ Following distributions are tested for VM/Bare-metal based installations:
 > Full: Supports both enforcement and observability  
 > Partial: Supports only observability
 
+### Supported Compliance
+
+- NIST, CIS Benchmark, ISO 27001, PCI-DSS, HITRUST-CSF, GDPR, SOC-2, FedRAMP, HIPAA.
+- Frameworks - MITRE ATT&CK, MITRE FiGHT 
+
 ### Platform I am interested is not listed here! What can I do?
 
 Please approach the Kubearmor community on [slack](https://github.com/kubearmor/kubearmor#slack) or [raise](https://github.com/kubearmor/KubeArmor/issues/new/choose) a GitHub issue to express interest in adding the support.
